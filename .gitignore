@@ -1,0 +1,6 @@
+# mac noise:
+.DS_Store
+
+# the build site doesn't need to be checked in. Github pages will render this on git push.
+_site
+
